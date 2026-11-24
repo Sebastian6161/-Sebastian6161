@@ -1,20 +1,18 @@
 
 # Sebastián Ávila
 
-**IT Support | Software Development | IT Automation**
+**IT Support · Software Development · IT Automation**
 
-Estudiante de Analista Programador Computacional en Duoc UC, con experiencia en soporte TI corporativo y desarrollo de herramientas para la automatización de procesos y resolución de incidencias informáticas.
+Estudiante de Analista Programador Computacional en Duoc UC, con experiencia en soporte TI corporativo, diagnóstico de incidencias y desarrollo de herramientas de automatización para entornos Windows.
 
-Mi enfoque combina el desarrollo de software con la administración de sistemas, buscando soluciones funcionales, mantenibles y orientadas a las necesidades reales de los usuarios.
+Mi interés profesional se centra en el desarrollo de software, la administración de sistemas y la implementación de soluciones tecnológicas que permitan optimizar procesos y resolver problemas reales.
 
-## Áreas de desarrollo
+## Áreas de interés
 
-- Desarrollo de aplicaciones de escritorio.
-- Automatización de procesos mediante C# y PowerShell.
-- Soporte TI y diagnóstico de incidencias.
-- Administración de sistemas Windows.
-- Gestión de bases de datos relacionales.
-- Infraestructura y servicios cloud.
+- Desarrollo de software y aplicaciones de escritorio.
+- Automatización de procesos TI.
+- Administración de sistemas e infraestructura.
+- Bases de datos y servicios cloud.
 
 ## Tecnologías
 
@@ -24,22 +22,8 @@ Mi enfoque combina el desarrollo de software con la administración de sistemas,
 | Desarrollo | .NET, WinForms, Java Swing, Maven |
 | Bases de datos | MySQL, Oracle Database, JDBC |
 | Sistemas | Windows, Linux, Windows Services |
-| Cloud e infraestructura | AWS, Docker |
+| Infraestructura | AWS, Docker |
 | Control de versiones | Git, GitHub |
-
-## Proyectos
-
-### [Help Desk Management System](https://github.com/Sebastian6161/HelpDesk_V1)
-
-Sistema de gestión de incidencias, usuarios y equipos informáticos desarrollado en Java, con persistencia de datos en MySQL.
-
-**Tecnologías:** Java, Maven, JDBC, MySQL.
-
-### [Library Management System](https://github.com/Sebastian6161/Biblioteca)
-
-Aplicación de gestión bibliotecaria con arquitectura MVC, operaciones CRUD, administración de préstamos y control de acceso por roles.
-
-**Tecnologías:** Java Swing, MySQL, JDBC, Maven.
 
 ## Formación
 
@@ -48,6 +32,4 @@ Duoc UC — En curso
 
 ## Contacto
 
-- Santiago, Chile.
-- [LinkedIn](https://www.linkedin.com/in/sebastián-ignacio-ávila-sanhueza-249826260/)
-- [Correo electrónico](mailto:sebastian.avila6161@gmail.com)
+Santiago, Chile · [LinkedIn](https://www.linkedin.com/in/sebastián-ignacio-ávila-sanhueza-249826260/)
